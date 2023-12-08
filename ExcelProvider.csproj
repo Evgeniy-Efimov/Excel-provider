@@ -106,6 +106,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ExcelProvider.cs" />
+    <Compile Include="Helpers\PropertyHelper.cs" />
+    <Compile Include="Helpers\StringHelper.cs" />
+    <Compile Include="Helpers\ValidationHelper.cs" />
     <Compile Include="IExcelProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
